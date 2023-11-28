@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(212, 206, 238);
+    text-align: center;
+}
+
+img{
+    float:center;
+    height:220px;
+    width:220px;
+    text-align: center;
+}
+
+h1{
+    border-bottom-style: inset;
+    text-align: center;
+}
